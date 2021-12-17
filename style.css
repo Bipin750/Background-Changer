@@ -2,13 +2,13 @@ body{
     display: flex;
     text-align: center;
     justify-content: center;
-    background-color: white;
+    background-color: coral;
 }
 
 .container{
     margin-top:150px;
     border: 2px solid grey;
-    height: 400px;
+    height: 350px;
     width: 600px;
     border-radius: 20px;
     border-color: black;
